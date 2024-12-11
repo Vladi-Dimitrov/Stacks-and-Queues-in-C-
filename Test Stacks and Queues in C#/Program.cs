@@ -1,5 +1,5 @@
-﻿string[] input = Console.ReadLine();
-                 
+﻿string[] input = Console.ReadLine()
+                 .Split();
 int N = int.Parse(input[0]); 
 int S = int.Parse(input[1]); 
 int X = int.Parse(input[2]); 
